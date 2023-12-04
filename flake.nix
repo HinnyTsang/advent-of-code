@@ -11,7 +11,7 @@
         pkgs = nixpkgs.legacyPackages.${system};
 
         poetry = pkgs.poetry.override {
-          python3 = pkgs.python312;
+          python3 = pkgs.python310;
         };
         buildInputs =
           [
