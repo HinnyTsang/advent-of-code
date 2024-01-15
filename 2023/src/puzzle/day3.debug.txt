@@ -1,0 +1,17 @@
+467..114..
+...*......
+..35..633.
+......#...
+617*......
+.....+.58.
+..592.....
+......755.
+...$.*....
+.664.598..
+
+module use ~/privatemodules/                                                                                                          │hinny@sfg-stor2 ~/mcf_project/h5/restart-out/para (master)$ pwd
+module add gcc/5/4                                                                                                                    │/home/hinny/mcf_project/h5/restart-out/para
+module add fftw/3/3/5                                                                                                                 │hinny@sfg-stor2 ~/mcf_project/h5/restart-out/para (master)$ pwd | xclip
+module add hdf5/gcc/5/4                                                                                                               │The program 'xclip' is currently not installed. To run 'xclip' please ask your administrator to install the package 'xclip'
+module add mpi/mpich/3/2                                                                                                              │hinny@sfg-stor2 ~/mcf_project/h5/restart-out/para (master)$ ls
+module add intel_parallel_studio_xe_2015
